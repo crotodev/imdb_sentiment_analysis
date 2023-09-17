@@ -13,6 +13,8 @@ pandas = "^2.1.0"
 matplotlib = "^3.7.3"
 transformers = {extras = ["torch"], version = "^4.33.1"}
 accelerate = "^0.22.0"
+tqdm = "^4.66.1"
+tensorboard = "^2.14.0"
 
 
 [build-system]
